@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>showroom meubles de kelibia en 3D</title>
+        <p>
+            visualisation et choix des meubles:<br>
+            <img src="Photo meubles 3d.png" alt="Photo meubles 3d " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
